@@ -1,0 +1,12 @@
+13.58.36.155
+Student 8
+
+Open Putty.
+Set Public IP Address.
+Keep connection alive
+Connection timeout set 30
+Click open
+
+commands
+sudo su
+apt update
